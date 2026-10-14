@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "user_huayna_demo",
+      "name": "Cliente Huayna Fit",
+      "email": "cliente@huayna.pe",
+      "phone": "904887006",
+      "passwordSalt": "0934bfefd4ba79048bd2fd5c819f23c9",
+      "passwordHash": "e91627cca8e1347b4fc75100f59ac6d04cdf3b00045927b6f1d7d9d40d9980cbe62884f60c28b146b0d65aa6f1d51ceea20a7599838a3dc55bc72c3981ffd934",
+      "address": "Av. Bolognesi 520, Tacna",
+      "district": "Tacna Cercado",
+      "reference": "Frente al parque",
+      "fitPoints": 120,
+      "createdAt": "2026-10-14T20:40:54.800Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "669c5854e3cbe02c07cbb82e61825b294586c586d10ca7bb73db806036f4fe94",
+      "userId": "user_huayna_demo",
+      "createdAt": "2026-10-14T20:41:06.197Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "#HY-21810",
+      "customerName": "Test User",
+      "customerPhone": "904887006",
+      "items": [
+        {
+          "id": "panc-banana",
+          "product": {
+            "name": "Banana Pancake"
+          },
+          "quantity": 1,
+          "totalPrice": 15
+        }
+      ],
+      "subtotal": 15,
+      "deliveryFee": 4,
+      "discount": 0,
+      "tip": 0,
+      "total": 19,
+      "address": "Av Bolognesi",
+      "district": "Tacna Cercado",
+      "reference": "",
+      "paymentMethod": "yape",
+      "status": "recibido",
+      "createdAt": "2026-10-14T20:41:12.043Z",
+      "whatsappMessage": "Test"
+    }
+  ]
+}

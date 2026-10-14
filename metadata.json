@@ -1,0 +1,6 @@
+{
+  "name": "HUAYNA - Cafetería & Postres Saludables Delivery",
+  "description": "Web App móvil de catálogo interactivo y delivery directo por WhatsApp para HUAYNA Cafetería Saludable en Tacna. Catálogo fit, Yape, BCP y pedidos en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
